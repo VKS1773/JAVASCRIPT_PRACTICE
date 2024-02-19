@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.container{
+    width:95%;
+    height:95vh;
+    margin:auto;
+    background-color:rgb(167, 218, 167);
+    display:flex;
+}
+.container .clock{
+    border:1px solid rgb(163, 144, 144);
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    width:250px;
+    padding:10px;
+    background:rgb(187, 187, 159);
+}
